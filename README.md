@@ -7,7 +7,7 @@
 <h2>⚡ Certifications:</h2>
   
 - [Introduction to Cybersecurity by Cisco](https://www.credly.com/badges/a8e754e3-9dcd-4b91-936c-b57b98276666?source=linked_in_profile)
-- [100W Cybersecuirty Practices for Industrial Control Systems](https://drive.google.com/file/d/19Zis6F_3uvHiPFfROyNd4OFoXElnQyZm/view)
+- [100W Cybersecuirty Practices for Industrial Control Systems by CISA](https://drive.google.com/file/d/19Zis6F_3uvHiPFfROyNd4OFoXElnQyZm/view)
 
 <h2>📫 Connect with me:</h2>
 
