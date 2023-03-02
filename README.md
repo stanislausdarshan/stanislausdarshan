@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darshan! <br/><a href="https://github.com/stanislausdarshan">Programmer</a>, <a href="https://www.linkedin.com/in/darshanstanislaus/">Cybersecurity Student</a>
+<h1>Hi, I'm Darshan Stanislaus! <br/><a href="https://github.com/stanislausdarshan">Programmer</a>, <a href="https://www.linkedin.com/in/darshanstanislaus/">Cybersecurity Student</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
